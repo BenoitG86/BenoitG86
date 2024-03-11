@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenoitG86
 - 👀 I’m interested in : learning
 - 🌱 I’m currently learning : Git & GitHub , HTML5 & CSS, JS, php
-- 📫 How to reach me : please don't
+- 📫 How to reach me : please don't ( or do, I really need the work )
 - 😄 Pronouns: any
 - ⚡ Fun fact: 🥖🧀🏴‍☠️
 
