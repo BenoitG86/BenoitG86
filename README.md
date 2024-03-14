@@ -9,4 +9,3 @@
 BenoitG86/BenoitG86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![alt text](https://giphy.com/gifs/nyan-cat-sIIhZliB2McAo)
